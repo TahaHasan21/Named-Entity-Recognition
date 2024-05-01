@@ -1,4 +1,4 @@
-package com.dineshkrish.nerapplication;
+package com.Nlpproject.nerapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

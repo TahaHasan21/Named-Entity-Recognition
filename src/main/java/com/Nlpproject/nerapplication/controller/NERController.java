@@ -1,6 +1,6 @@
-package com.dineshkrish.nerapplication.controller;
+package com.Nlpproject.nerapplication.controller;
 
-import com.dineshkrish.nerapplication.model.Type;
+import com.Nlpproject.nerapplication.model.Type;
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;

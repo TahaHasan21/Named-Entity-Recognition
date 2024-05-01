@@ -1,4 +1,4 @@
-package com.dineshkrish.nerapplication.model;
+package com.Nlpproject.nerapplication.model;
 
 public enum Type {
 

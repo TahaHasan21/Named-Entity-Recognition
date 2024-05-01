@@ -1,4 +1,4 @@
-package com.dineshkrish.nerapplication.core;
+package com.Nlpproject.nerapplication.core;
 
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import org.springframework.context.annotation.Bean;

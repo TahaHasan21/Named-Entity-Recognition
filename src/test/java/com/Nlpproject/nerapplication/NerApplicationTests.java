@@ -1,4 +1,4 @@
-package com.dineshkrish.nerapplication;
+package com.Nlpproject.nerapplication;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
